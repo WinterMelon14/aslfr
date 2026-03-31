@@ -11,8 +11,7 @@ Originally, I wanted to use a feature extractor (not present in the code current
 
 ## Metrics
 
-I was also so lazy I didn't bother to implement levenshtein lmao but from inference i can see it's pretty accurate.
-To avoid overfitting I had to implement a stupid amount of dropout (~0.5) in some places idk why tbh.
+To avoid overfitting I had to implement an insane amount of dropout (~0.5) in some places, not sure why though but it works.
 
 ## Note
 
